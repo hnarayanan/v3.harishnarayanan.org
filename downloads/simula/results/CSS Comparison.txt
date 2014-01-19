@@ -1,0 +1,20 @@
+CSS First order:
+
+u(0.5, 0.5) = [-0.06692195  0.03081605]
+Time step 2262 finished in 0.0930109 seconds, 100.011% done (t = 25.0029, T = 25).
+
+No plot object, interaction not possible
+Functional value: -0.066921946009
+Reference value:  -0.0625
+
+
+
+CSS Second order:
+
+u(0.5, 0.5) = [-0.06680062  0.03075873]
+Time step 2262 finished in 0.0830181 seconds, 100.011% done (t = 25.0029, T = 25).
+
+No plot object, interaction not possible
+Functional value: -0.0668006225239
+Reference value:  -0.0625
+

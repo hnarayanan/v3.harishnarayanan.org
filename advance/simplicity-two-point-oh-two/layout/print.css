@@ -1,0 +1,108 @@
+body {
+background-color: #fff;
+color: #000;
+font-family: "Times New Roman", Times, "New Century Schoolbook", serif;
+font-size: 12pt; 
+margin:0;
+padding:0;
+}
+
+#window {
+clear:both;
+margin:10px;
+padding:0;
+}
+
+#container {
+display:block;
+margin:0 auto;
+padding:0;
+text-align:left;
+}
+
+#main {
+clear:both;
+margin:0;
+width:100%;
+}
+
+#outer-prettification, #inner-prettification, #header, #contents, h1#title, h1#title a {
+background:#fff;
+padding:0;
+margin:0;
+}
+
+h1#title{
+margin-bottom:.5em;
+}
+
+#contents p {
+font-size:110%;
+line-height:140%;
+margin:0;
+text-align:justify;
+margin-top:0.5em;
+width:100%;
+}
+
+div.comment, div.showcase {
+background-color:#fff;
+color:#000;
+border:0;
+line-height:100%;
+padding:0;
+margin-top:1em;
+margin-bottom:0.2em;
+margin-left:auto;
+margin-right:auto;
+width:85%;
+font-style:italic;
+}
+
+div.comment img{
+display:none;
+}
+
+h2,h3 {
+padding:0;
+}
+
+#contents p img.left, #contents p img.right {
+display:none;
+}
+
+img.centered-photo, img.centered {
+display:block;
+margin-top:1.5em;
+padding:0;
+text-align:center;
+padding:3px;
+text-align:center;
+}
+
+div.console {
+background-color:#fff;
+border:solid 1px #aaa;
+padding:0.5em;
+color:#000;
+font-family:"Andale Mono", Courier, Monospace;
+font-size:90%;
+line-height:150%;
+margin-top:0.5em;
+margin-bottom:0.5em;
+margin-left:auto;
+margin-right:auto;
+white-space:pre;
+width:85%;
+}
+
+#navigation,#footer {
+display:none; !important;
+}
+
+a:link,a:visited {
+color: #356AA0; !important;
+text-decoration: underline; !important;
+}
+
+

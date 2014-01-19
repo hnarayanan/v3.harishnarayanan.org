@@ -1,0 +1,12 @@
+#navigation,#footer {
+display:none; !important;
+}
+
+a:link,a:visited {
+color: #356AA0; !important;
+text-decoration: underline; !important;
+}
+
+div.console {
+border:0;
+}
